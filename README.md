@@ -15,9 +15,9 @@ All of the above can be installed via pip or conda.
 
 ## <a name="data">Data</a>
 The data used in the article are available on:
-        * Liu: https://github.com/masashitsubaki
-        * Yunan: https://github.com/luoyunan/DTINet
-        * Davis/Kiba: https://github.com/hkmztrk/DeepDTA
+* Liu: https://github.com/masashitsubaki
+* Yunan: https://github.com/luoyunan/DTINet
+* Davis/Kiba: https://github.com/hkmztrk/DeepDTA
 For what concern protein similarity data and drug similarity data
 they can be created with the help of BLAST+ (with blastp command) and 
 with RDkit (directly in python). 
