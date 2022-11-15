@@ -1,7 +1,7 @@
 # CPI-NXTFusion-
 
 ### Table of Contents
-* [Requirements] (#requirements)
+* [Requirements](#requirements)
 * [Data](#data)
 * [Usage](#usage)
 
